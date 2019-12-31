@@ -8,7 +8,6 @@ weight = 20
 title = "Computer Science Student"
 
 # Michael Vicente
-# This should be the username of a profile in your `content/authors/` folder.
-# See https://sourcethemes.com/academic/docs/get-started/#introduce-yourself
+# Michael Vicente
 author = "Michael Vicente"
 +++
