@@ -6,8 +6,5 @@ active = true
 weight = 20 
 
 title = "Computer Science Student"
-
-# Michael Vicente
-# Michael Vicente
 author = "Michael Vicente"
 +++
