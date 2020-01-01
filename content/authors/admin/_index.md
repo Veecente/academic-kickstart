@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Michael Vicente
 
 # Username (this should match the folder name)
 authors:
@@ -10,50 +10,44 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Studying Computer Science and Applied Mathematics & Statistics
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Stony Brook University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My name is Michael Vicente and I'm currently a student at Stony Brook University. During my time here I have chosen to study Computer Science and Applied Mathematics & Statistics.
 
 interests:
 - Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Applied Mathematics
+- Finance
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: BS Computer Science and Applied Mathematics & Statistics
+    institution: Stony Brook University
+    year: 2018-2021
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
+# - icon: twitter
+#  icon_pack: fab
+#  link: https://twitter.com/
+# - icon: google-scholar
+#  icon_pack: ai
+#  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: 'mailto:michael.vicente@stonybrook.edu'  # For a direct email link, use "mailto:test@example.org".
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/Veecente
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -70,6 +64,6 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+My name is Michael Vicente and I'm currently a student at Stony Brook University. During my time here I have chosen to study Computer Science and Applied Mathematics & Statistics. Since a young age I've had a fascination with numbers, from rudimentary equations to complex systems I love how they can be arranged to solve the worlds deepest problems. This passion to solve problems has lead me down the path of Computer Science. Like everyone else, I started by learning basic programs but have since diverged into more complex problems.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I currently am interested in AI/ML. I also have a strong passion for teaching which is why I tutor at a mathematics learning center in my free time on the weekends. As far as other hobbies I enjoy finance and particularly the stock market. I enjoy learning about how a system as large as the stock market can be swayed by an array of variables and is something which many people try to predict, but only few succeed. This is why I aim to research new tech and work to further understand how we can better understand the world around us
